@@ -9,4 +9,7 @@ public class Main {
 
     // Funcionalidad 2: Comentario agregado por la rama feature/comentario2
 
+    // HOTFIX: Comentario corregido desde la rama hotfix
+
+
 }
